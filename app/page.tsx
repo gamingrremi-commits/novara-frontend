@@ -24,7 +24,6 @@ export default async function HomePage() {
         <Collections locale="sq" />
         <Philosophy locale="sq" />
         <Services locale="sq" />
-        {/* @ts-expect-error Async Server Component */}
         <Featured locale="sq" />
         <Atelier locale="sq" />
         <Story locale="sq" />
